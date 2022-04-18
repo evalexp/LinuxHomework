@@ -1,0 +1,208 @@
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 line content of test.txt
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+
+Actually, if you want to parse the var expr in the content.
+You might consider to run such as parseVar.bin read test.txt 1 10:
+
+for example, if the content is :
+
+Hello, $user
+Your home dir is : $home
+And now you are in : $pwd
+
+It would be parse as:
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello, your_username
+Your home dir is : your_homedir
+And now you are in : your_current_work_dir
+
+Hello
+This is a test txt for "read" program.
+The read program usage:
+    read.bin filename line_start line_end
+Examples:
+    read.bin test.txt 1 10
+    And this would print the 1-10 lin
